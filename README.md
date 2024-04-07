@@ -1,22 +1,20 @@
 <h1 align="center">
-<img src="./public/favicon.png"/>
 
 <p>Never stop learning! 🚀</p>
-<p>NLW Expert (React) by RocketSeat</p>
+<p>NLW Unite (React) by RocketSeat</p>
 </h1>
 
 <h1>
-<img src="https://ik.imagekit.io/tzbw07b6g/image.png?updatedAt=1711185032846"/>
+<img src="https://ik.imagekit.io/tzbw07b6g/image.png?updatedAt=1712494140856"/>
 </h1>
 
 ## 🗂️ About:
 
-This application was developed during Rocketseat's NLW Experts using React, TypeScript, Tailwind and the SpeechRecognition API.
+Development of a front-end application in ReactJS, application of the concepts of Properties, States and Components, typing with Typescript, tooling with Vite, responsive interface with TailwindCSS, consumption of Node.js API, use of URL states.
 
 ## ⚙️ Tools
 
-- Node
 - React
 - TypeScrip
 - Tailwind
-- SpeechRecognition API
+- Node.js API
