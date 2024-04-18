@@ -6,7 +6,7 @@
 </h1>
 
 <h1>
-<img src="https://ik.imagekit.io/tzbw07b6g/image.png?updatedAt=1711185032846"/>
+<img src="[https://ik.imagekit.io/tzbw07b6g/image.png?updatedAt=1711185032846](https://ik.imagekit.io/tzbw07b6g/image.png?updatedAt=1713446284116)"/>
 </h1>
 
 ## 🗂️ About:
